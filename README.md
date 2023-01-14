@@ -6,21 +6,46 @@
 + [Badges](https://github.com/BrentGoodman/Certificates#badges)
 + [Programming Certificate's](https://github.com/BrentGoodman/Certificates#programming)
 + [Professional Certificate's](https://github.com/BrentGoodman/Certificates#professional)
-
+<br />
+<br />
 
 
 ### Badges {#badges}
 -----------------------------------------------
+<br />
 
 #### HackerRank 
+<br />
+![alt text HackerRank Logo](./Assets/HackerRank.png)
+<br />
 -----------------------------------------------
 ![alt text JavaScript_Intermediate_Skill](./Badges/JavaScript_Intermediate_Skill.png) ![alt text CSS Skill Badge](./Badges/CSS_Skill.png) ![alt text JavaScript_Basic_Skill](./Badges/JavaScript_Basic_Skill.png) ![alt text Python_Basic_Skill](./Badges/Python_Basic_Skill.png)
 
+<br />
+
+#### SkillFront 
+<br />
+![alt text SkillFront Logo](./Assets/SkillFront.jpeg)
+<br />
+-----------------------------------------------
+![alt text ISO 20000 Badge](./Badges/ISOIEC20000.png) ![alt text ISO 9001 Badge](./Badges/ISO9001.png) ![alt text ISO/IEC 27001 Badge](./Badges/ISOIEC27001.png) ![alt text Lean Foundation Badge](./Badges/LeanFoundation.png) ![alt text Insurance Fundementals Badge](./Badges/InsuranceFundementals.png) ![alt text Business Entrepreneurship Badge](./Badges/BusinessEntrepreneurship.png)
+
+<br />
+
+#### CertiProf 
+<br />
+![alt text CertiProf Logo](./Assets/CertiProf.jpeg)
+<br />
+-----------------------------------------------
+![alt text Scrum Foundation Badge](./Badges/scrum_foundation.png) ![alt text Remote Worker Badge](./Badges/Remote_Worker_Badge.png)
+
+<br />
+<br />
 
 
 ## Certificate's
 -----------------------------------------------
-
+<br />
 
 ### Programming Certificate's {#programming}
 -----------------------------------------------
@@ -35,7 +60,8 @@
 | - [x]  Python Development Course   | LearnX.org Credential ID: **58115691-a97a-4489-b6af-025a3dbcd5b4**       | [Certificate Verification](https://www.learnx.org/certificate/58115691-a97a-4489-b6af-025a3dbcd5b4) |
 | - [x]  CSS (Cascading Style Sheets) Certificate   | HackerRank Credential ID: **FBF3411C6C29**       | [Certificate Verification](https://www.hackerrank.com/certificates/fbf3411c6c29) |
 
-
+<br />
+<br />
 
 ### Professional Certificate's {#professional}
 -----------------------------------------------------
@@ -55,6 +81,9 @@
 | - [x]  Certified Insurance Industry Fundamentals<sup>TM</sup> (CIIF<sup>TM</sup>)   | SkillFront       | [Certificate](https://www.skillfront.com/Badges/76626941870193) |
 | - [x]  Foundations Of Business And Entrepreneurship<sup>TM</sup>   | SkillFront       | [Certificate](https://www.skillfront.com/Badges/26878082394786) |
 | - [x]  Remote Worker Professional Certificate (RWPC<sup>TM</sup>)   | CertiProf       | [Certificate](https://www.credly.com/badges/5e162956-50ef-47a3-b1c8-bfefed92e196/public_url) |
+
+<br />
+<br />
 
 
 
