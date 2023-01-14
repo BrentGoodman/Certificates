@@ -10,13 +10,16 @@
 <br />
 
 
-### Badges {#badges}
+### Badges{#badges}
 -----------------------------------------------
 <br />
 
 #### HackerRank 
+
 <br />
+
 ![alt text HackerRank Logo](./Assets/HackerRank.png)
+
 <br />
 -----------------------------------------------
 ![alt text JavaScript_Intermediate_Skill](./Badges/JavaScript_Intermediate_Skill.png) ![alt text CSS Skill Badge](./Badges/CSS_Skill.png) ![alt text JavaScript_Basic_Skill](./Badges/JavaScript_Basic_Skill.png) ![alt text Python_Basic_Skill](./Badges/Python_Basic_Skill.png)
