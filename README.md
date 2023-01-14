@@ -21,7 +21,7 @@
 
 <br />
 
-![alt text HackerRank Logo](./Assets/HackerRank.png)
+<img width="150" alt="HackerRank Logo" src="./Assets/HackerRank.png">
 
 <br />
 
@@ -29,17 +29,9 @@
 
 <br />
 
-<div style="display:flex">
-     <div style="flex:1;padding-right:10px;">
-          <img src="Badges/JavaScript_Intermediate_Skill.png" width="100"/>
-     </div>
-     <div style="flex:1;padding-left:10px;">
-          <img src="Badges/CSS_Skill.png" width="100"/>
-     </div>
-     <div style="flex:1;padding-left:10px;">
-          <img src="Badges/Python_Basic_Skill.png" width="100"/>
-     </div>
-</div>
+| JavaScript Basic      |  JavaScript Intermediate | Python Basic | CSS |
+| :--------------- | :---------------: | :---------------: | :---------------: |
+| <img width="150" alt="JavaScript_Basic_Skill Badge" src="./Badges/JavaScript_Basic_Skill.png"> | <img width="150" alt="JavaScript_Intermediate_Skill Badge" src="./Badges/JavaScript_Intermediate_Skill.png"> | <img width="150" alt="Python_Basic_Skill Badge" src="./Badges/Python_Basic_Skill.png"> | <img width="150" alt="CSS Skill Badge" src="./Badges/CSS_Skill.png"> |
 
 <br />
 
