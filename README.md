@@ -139,7 +139,7 @@
 | :heavy_check_mark: |   Python Development Course   | LearnX.org Credential ID: **58115691-a97a-4489-b6af-025a3dbcd5b4**       | [Certificate Verification](https://www.learnx.org/certificate/58115691-a97a-4489-b6af-025a3dbcd5b4) |
 | :heavy_check_mark: |   CSS (Cascading Style Sheets) Certificate   | HackerRank Credential ID: **FBF3411C6C29**       | [Certificate Verification](https://www.hackerrank.com/certificates/fbf3411c6c29) |
 | :heavy_check_mark: |   Intro to Machine Learning  | Kaggle     | [Certificate Verification](https://www.kaggle.com/learn/certification/brentgoodman/intro-to-machine-learning) |
-| :heavy_check_mark: |   Programming in C++ Certificate  | Coding Ninjas  | [Certificate Verification](https://files.codingninjas.in/certi_image2633830a49eb255a78622ef7c6c57a5bee5cb2.jpg) |
+| :heavy_check_mark: |   Programming in C++ Certificate  | Coding Ninjas  | [Certificate Verification](https://files.codingninjas.in/certificate-263383-757c0e3703c9239a979384761e5fe919.pdf) |
 
 </div>
   
