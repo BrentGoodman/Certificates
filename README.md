@@ -165,5 +165,5 @@
 <br>
 <br>
 
-<a href="#to" align="center"><strong>Top of Page</strong></a>
+<span align="center"><a href="#to"><strong>Top of Page</strong></a></span>
 
