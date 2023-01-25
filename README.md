@@ -37,6 +37,28 @@
 
 -----------------------------------------------
 
+<br />
+
+<h3 align="center">Coding Ninjas</h3>
+
+<p align="center">
+<img class="logo" width="150" alt="CodingNinjas Logo" src="./Assets/codestudio-logo.svg">
+</p>
+
+<br />
+
+-----------------------------------------------
+
+<br />
+
+| Programming in C++  &nbsp;  &nbsp; |  OOPS in C++ &nbsp;  &nbsp; | Programming in Java &nbsp;  &nbsp;  | OOPS in Java &nbsp;  &nbsp; |
+| :---------------: | :---------------: | :---------------: | :---------------: |
+| <img width="150" alt="C++ Skill Badge" src="./Badges/sensei.svg" /> | <img width="150" alt="C++ Skill Badge" src="" /> | <img width="150" alt="Java Skill Badge" src="" /> | <img width="150" alt="Java Skill Badge" src="" /> |
+
+<br />
+
+-----------------------------------------------
+
 <h3 align="center">SkillFront</h3>
 
 <br />
@@ -96,6 +118,7 @@
 | :heavy_check_mark: |   Python Development Course   | LearnX.org Credential ID: **58115691-a97a-4489-b6af-025a3dbcd5b4**       | [Certificate Verification](https://www.learnx.org/certificate/58115691-a97a-4489-b6af-025a3dbcd5b4) |
 | :heavy_check_mark: |   CSS (Cascading Style Sheets) Certificate   | HackerRank Credential ID: **FBF3411C6C29**       | [Certificate Verification](https://www.hackerrank.com/certificates/fbf3411c6c29) |
 | :heavy_check_mark: |   Intro to Machine Learning  | Kaggle     | [Certificate Verification](https://www.kaggle.com/learn/certification/brentgoodman/intro-to-machine-learning) |
+| :heavy_check_mark: |   Programming in C++ Certificate  | Kaggle     | [Certificate Verification](https://files.codingninjas.in/certi_image2633830a49eb255a78622ef7c6c57a5bee5cb2.jpg) |
 
 <br />
 <br />
