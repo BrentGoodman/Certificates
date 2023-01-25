@@ -27,10 +27,6 @@
 
 <br>
 
------------------------------------------------
-
-<br>
-
 <div align="center">
 
 | JavaScript Basic  &nbsp;  &nbsp; |  JavaScript Intermediate | Python Basic | CSS  &nbsp;  &nbsp;  &nbsp;|
@@ -53,10 +49,6 @@
 
 <br>
 
------------------------------------------------
-
-<br>
-
 <div align="center">
 
 | Programming in C++  &nbsp; |  OOPS in C++ &nbsp;  &nbsp; | Programming in Java &nbsp;  &nbsp;  | OOPS in Java &nbsp;  &nbsp; |
@@ -70,9 +62,9 @@
 
 -----------------------------------------------
 
-<h3 align="center">SkillFront</h3>
-
 <br>
+
+<h3 align="center">SkillFront</h3>
 
 <p align="center">
 <img class="logo" width="150" alt="SkillFront Logo" src="./Assets/SkillFront.jpeg">
@@ -96,9 +88,9 @@
 
 -----------------------------------------------
 
-<h3 align="center">CertiProf</h3>
-
 <br>
+
+<h3 align="center">CertiProf</h3>
 
 <p align="center">
 <img class="logo" width="150" alt="CertiProf Logo" src="./Assets/CertiProf.jpeg">
@@ -144,7 +136,6 @@
 
 </div>
   
-<br>
 <br>
 
 <h3 id="professional">Professional Certificate's</h3>
