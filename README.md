@@ -51,7 +51,7 @@
 
 <div align="center">
 
-| Programming in C++  &nbsp; |  OOPS in C++ &nbsp;  &nbsp; | Programming in Java &nbsp;  &nbsp;  | OOPS in Java &nbsp;  &nbsp; |
+| Programming in C++  &nbsp; |  OOPS in C++ &nbsp;  &nbsp; | Programming in Python &nbsp;  &nbsp;  | OOPS in Python &nbsp;  &nbsp; |
 | :---------------: | :---------------: | :---------------: | :---------------: |
 | <img width="150" alt="C++ Skill Badge" src="./Badges/sensei.svg" /> | <img width="150" alt="C++ Skill Badge" src="./Badges/sensei.svg" /> | <img width="150" alt="Java Skill Badge" src="./Badges/sensei.svg" /> | <img width="150" alt="Java Skill Badge" src="./Badges/sensei.svg" /> |
 | Sensei Badge | Sensei Badge |  Sensei Badge |  Sensei Badge | 
@@ -126,6 +126,7 @@
 | :heavy_check_mark: |   JavaScript Algorithms and Data Structures   | freeCodeCamp       | [Certificate Verification](https://freecodecamp.org/certification/fcc45c48335-657e-47ed-8aab-dbb4ec473c7a/javascript-algorithms-and-data-structures) |
 | :heavy_check_mark: |   Python Programming: Data Structure, Animation and Arrays   | Kaggle       | [Certificate Verification](https://www.kaggle.com/learn/certification/brentgoodman/python) |
 | :heavy_check_mark: |   Python Development Course   | LearnX.org Credential ID: **58115691-a97a-4489-b6af-025a3dbcd5b4**       | [Certificate Verification](https://www.learnx.org/certificate/58115691-a97a-4489-b6af-025a3dbcd5b4) |
+| :heavy_check_mark: |   Object-Oriented Programming <br> (OOPs) in Python  | Coding Ninjas Credential ID **267379** | [Certificate Verification](https://files.codingninjas.in/certificate-267379-45d21d910addfc2472ea17af8cced425.pdf) |
 | :heavy_check_mark: |   Programming in C++ Certificate  | Coding Ninjas Credential ID **263383** | [Certificate Verification](https://files.codingninjas.in/certificate-263383-757c0e3703c9239a979384761e5fe919.pdf) |
 | :heavy_check_mark: |   Object-Oriented Programming <br> (OOPs) in C++  | Coding Ninjas Credential ID **267371** | [Certificate Verification](https://files.codingninjas.in/certificate-267371-16da146b96bc91c29bcefb5375e5b42a.pdf) |
 | :heavy_check_mark: |   CSS (Cascading Style Sheets) Certificate   | HackerRank Credential ID: **FBF3411C6C29**       | [Certificate Verification](https://www.hackerrank.com/certificates/fbf3411c6c29) |
