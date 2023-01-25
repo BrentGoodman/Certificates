@@ -131,15 +131,16 @@
 
 | | Certificate      | Issued by | Link to Certificate |
 | :---------------: | :--------------- | :---------------: | :---------------: |
-| :heavy_check_mark: |   JavaScript (Basic) Certificate   | HackerRank Credential ID: **3C2972924A06**      | [Certificate Verification](https://www.hackerrank.com/certificates/3c2972924a06) |
-| :heavy_check_mark: |   JavaScript (Intermediate) Certificate   | HackerRank Credential ID: **C7A9A32F03C3**       | [Certificate Verification](https://www.hackerrank.com/certificates/c7a9a32f03c3) |
 | :heavy_check_mark: |   JavaScript Algorithms and Data Structures   | freeCodeCamp       | [Certificate Verification](https://freecodecamp.org/certification/fcc45c48335-657e-47ed-8aab-dbb4ec473c7a/javascript-algorithms-and-data-structures) |
-| :heavy_check_mark: |   Python (Basic) Certificate   | HackerRank Credential ID: **0238C6008E39**       | [Certificate Verification](https://www.hackerrank.com/certificates/0238c6008e39) |
 | :heavy_check_mark: |   Python Programming: Data Structure, Animation and Arrays   | Kaggle       | [Certificate Verification](https://www.kaggle.com/learn/certification/brentgoodman/python) |
 | :heavy_check_mark: |   Python Development Course   | LearnX.org Credential ID: **58115691-a97a-4489-b6af-025a3dbcd5b4**       | [Certificate Verification](https://www.learnx.org/certificate/58115691-a97a-4489-b6af-025a3dbcd5b4) |
+| :heavy_check_mark: |   Programming in C++ Certificate  | Coding Ninjas  | [Certificate Verification](https://files.codingninjas.in/certificate-263383-757c0e3703c9239a979384761e5fe919.pdf) |
 | :heavy_check_mark: |   CSS (Cascading Style Sheets) Certificate   | HackerRank Credential ID: **FBF3411C6C29**       | [Certificate Verification](https://www.hackerrank.com/certificates/fbf3411c6c29) |
 | :heavy_check_mark: |   Intro to Machine Learning  | Kaggle     | [Certificate Verification](https://www.kaggle.com/learn/certification/brentgoodman/intro-to-machine-learning) |
-| :heavy_check_mark: |   Programming in C++ Certificate  | Coding Ninjas  | [Certificate Verification](https://files.codingninjas.in/certificate-263383-757c0e3703c9239a979384761e5fe919.pdf) |
+| :heavy_check_mark: |   Python (Basic) Certificate   | HackerRank Credential ID: **0238C6008E39**       | [Certificate Verification](https://www.hackerrank.com/certificates/0238c6008e39) |
+| :heavy_check_mark: |   JavaScript (Basic) Certificate   | HackerRank Credential ID: **3C2972924A06**      | [Certificate Verification](https://www.hackerrank.com/certificates/3c2972924a06) |
+| :heavy_check_mark: |   JavaScript (Intermediate) Certificate   | HackerRank Credential ID: **C7A9A32F03C3**       | [Certificate Verification](https://www.hackerrank.com/certificates/c7a9a32f03c3) |
+| :heavy_check_mark: |   Data Analysis with Pandas in Python   | Kaggle       | [Certificate Verification](https://www.kaggle.com/learn/certification/brentgoodman/pandas) |
 
 </div>
   
