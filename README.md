@@ -1,4 +1,4 @@
-# Education & Experience
+# Education & Certificates
 
 <br>
 
