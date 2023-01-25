@@ -1,33 +1,35 @@
 # Education & Experience
 
+<br>
 
-## Table Of Contents
+<h2 id="top">Table Of Contents</h2>
+
 -----------------------------------------------
 + [Badges](https://github.com/BrentGoodman/Certificates#badges)
 + [Programming Certificate's](https://github.com/BrentGoodman/Certificates#programming)
 + [Professional Certificate's](https://github.com/BrentGoodman/Certificates#professional)
 
-<br />
-<br />
+<br>
+<br>
 
 
 <h3 id="badges">Badges</h3>
 
 -----------------------------------------------
 
-<br />
+<br>
 
-<h3 align="center">HackerRank.com</h3>
+<h3 align="center">Hacker Rank .com</h3>
 
 <p align="center">
 <img class="logo" width="150" alt="HackerRank Logo" src="./Assets/HackerRank.png">
 </p>
 
-<br />
+<br>
 
 -----------------------------------------------
 
-<br />
+<br>
 
 <div align="center">
 
@@ -37,43 +39,48 @@
   
 </div>
 
-<br />
+<br>
 
 -----------------------------------------------
 
-<br />
+<br>
 
-<h3 align="center">Coding Ninjas</h3>
+<h3 align="center">Coding Ninjas .com</h3>
 
 <p align="center">
 <img class="logo" width="150" alt="CodingNinjas Logo" src="./Assets/codestudio-logo.svg">
 </p>
 
-<br />
+<br>
 
 -----------------------------------------------
 
-<br />
+<br>
+
+<div align="center">
 
 | Programming in C++  &nbsp; |  OOPS in C++ &nbsp;  &nbsp; | Programming in Java &nbsp;  &nbsp;  | OOPS in Java &nbsp;  &nbsp; |
 | :---------------: | :---------------: | :---------------: | :---------------: |
 | <img width="150" alt="C++ Skill Badge" src="./Badges/sensei.svg" /> | <img width="150" alt="C++ Skill Badge" src="./Badges/sensei.svg" /> | <img width="150" alt="Java Skill Badge" src="./Badges/sensei.svg" /> | <img width="150" alt="Java Skill Badge" src="./Badges/sensei.svg" /> |
 | Sensei Badge | Sensei Badge |  Sensei Badge |  Sensei Badge | 
 
-
-<br />
+</div>
+  
+<br>
 
 -----------------------------------------------
 
 <h3 align="center">SkillFront</h3>
 
-<br />
+<br>
 
 <p align="center">
 <img class="logo" width="150" alt="SkillFront Logo" src="./Assets/SkillFront.jpeg">
 </p>
 
-<br />
+<br>
+
+<div align="center">
 
 |  ISO/IEC 20000 IT Service Mgmt. Assoc. | ISO 9001 Quality Mgmt. Systems Assoc. | ISO/IEC 27001 Information Security Assoc. |
 | :---------------: | :---------------: | :---------------: |
@@ -83,36 +90,44 @@
 | :---------------: | :---------------: | :---------------: |
 | <img width="250" alt="LeanFoundation Badge" src="./Badges/LeanFoundation.png"> | <img width="250" alt="InsuranceFundementals Badge" src="./Badges/InsuranceFundementals.png"> | <img width="250" alt="BusinessEntrepreneurship Badge" src="./Badges/BusinessEntrepreneurship.png"> |
 
-<br />
+</div>  
+
+<br>
 
 -----------------------------------------------
 
 <h3 align="center">CertiProf</h3>
 
-<br />
+<br>
 
 <p align="center">
 <img class="logo" width="150" alt="CertiProf Logo" src="./Assets/CertiProf.jpeg">
 </p>
 
-<br />
+<br>
+
+<div align="center">
 
 | Scrum Foundation Professional Cert.     |  Remote Worker Professional Cert. |
 | :---------------: | :---------------: |
 | <img width="150" alt="scrum_foundation Badge" src="./Badges/scrum_foundation.png"> | <img width="150" alt="Remote_Worker_Badge Badge" src="./Badges/Remote_Worker_Badge.png"> |
 
-<br />
-<br />
+</div>
+  
+<br>
+<br>
 
 
 ## Certificate's
 -----------------------------------------------
 
-<br />
+<br>
 
 <h3 id="programming">Programming Certificate's</h3>
 
 -----------------------------------------------
+
+<div align="center">
 
 | | Certificate      | Issued by | Link to Certificate |
 | :---------------: | :--------------- | :---------------: | :---------------: |
@@ -126,12 +141,16 @@
 | :heavy_check_mark: |   Intro to Machine Learning  | Kaggle     | [Certificate Verification](https://www.kaggle.com/learn/certification/brentgoodman/intro-to-machine-learning) |
 | :heavy_check_mark: |   Programming in C++ Certificate  | Coding Ninjas  | [Certificate Verification](https://files.codingninjas.in/certi_image2633830a49eb255a78622ef7c6c57a5bee5cb2.jpg) |
 
-<br />
-<br />
+</div>
+  
+<br>
+<br>
 
 <h3 id="professional">Professional Certificate's</h3>
 
 -----------------------------------------------------
+
+<div align="center">
 
 | | Certificate      | Issued by | Link to Certificate |
 | :---------------: | :--------------- | :---------------: | :---------------: |
@@ -149,8 +168,10 @@
 | :heavy_check_mark: | Foundations Of Business And Entrepreneurship<sup>TM</sup>   | SkillFront       | [Certificate](https://www.skillfront.com/Badges/26878082394786) |
 | :heavy_check_mark: |  Remote Worker Professional Certificate (RWPC<sup>TM</sup>)   | CertiProf       | [Certificate](https://www.credly.com/badges/5e162956-50ef-47a3-b1c8-bfefed92e196/public_url) |
 
-<br />
-<br />
+</div>
 
+<br>
+<br>
 
+> **[Top of Page](#top)**
 
