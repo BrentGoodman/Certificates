@@ -123,7 +123,7 @@
 
 | | Certificate      | Issued by | Link to Certificate |
 | :---------------: | :--------------- | :---------------: | :---------------: |
-| :heavy_check_mark: |   JavaScript Algorithms and Data Structures   | freeCodeCamp       | [Certificate Verification](https://freecodecamp.org/certification/fcc45c48335-657e-47ed-8aab-dbb4ec473c7a/javascript-algorithms-and-data-structures) |
+| :heavy_check_mark: |   JavaScript Algorithms and Data Structures   | freeCodeCamp Credential ID **fcc45c48335-657e-47ed-8aab-dbb4ec473c7a**  | [Certificate Verification](https://freecodecamp.org/certification/fcc45c48335-657e-47ed-8aab-dbb4ec473c7a/javascript-algorithms-and-data-structures) |
 | :heavy_check_mark: |   Python Programming: Data Structure, Animation and Arrays   | Kaggle       | [Certificate Verification](https://www.kaggle.com/learn/certification/brentgoodman/python) |
 | :heavy_check_mark: |   Python Development Course   | LearnX.org Credential ID: **58115691-a97a-4489-b6af-025a3dbcd5b4**       | [Certificate Verification](https://www.learnx.org/certificate/58115691-a97a-4489-b6af-025a3dbcd5b4) |
 | :heavy_check_mark: |   Object-Oriented Programming <br> (OOPs) in Python  | Coding Ninjas Credential ID **267379** | [Certificate Verification](https://files.codingninjas.in/certificate-267379-45d21d910addfc2472ea17af8cced425.pdf) |
