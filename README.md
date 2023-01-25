@@ -51,7 +51,7 @@
 
 <br />
 
-| Programming in C++  &nbsp;  &nbsp; |  OOPS in C++ &nbsp;  &nbsp; | Programming in Java &nbsp;  &nbsp;  | OOPS in Java &nbsp;  &nbsp; |
+| Programming in C++  &nbsp; |  OOPS in C++ &nbsp;  &nbsp; | Programming in Java &nbsp;  &nbsp;  | OOPS in Java &nbsp;  &nbsp; |
 | :---------------: | :---------------: | :---------------: | :---------------: |
 | <img width="150" alt="C++ Skill Badge" src="./Badges/sensei.svg" /> | <img width="150" alt="C++ Skill Badge" src="./Badges/sensei.svg" /> | <img width="150" alt="Java Skill Badge" src="./Badges/sensei.svg" /> | <img width="150" alt="Java Skill Badge" src="./Badges/sensei.svg" /> |
 | Sensei Badge | Sensei Badge |  Sensei Badge |  Sensei Badge | 
