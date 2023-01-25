@@ -51,10 +51,15 @@
 
 <div align="center">
 
-| Programming in C++  &nbsp; |  OOPS in C++ &nbsp;  &nbsp; | Programming in Python &nbsp;  &nbsp;  | OOPS in Python &nbsp;  &nbsp; |
+| Programming in C++  &nbsp; |  OOPS in C++ &nbsp;  &nbsp; | Programming in Python | OOPS in Python &nbsp; |
 | :---------------: | :---------------: | :---------------: | :---------------: |
 | <img width="150" alt="C++ Skill Badge" src="./Badges/sensei.svg" /> | <img width="150" alt="C++ Skill Badge" src="./Badges/sensei.svg" /> | <img width="150" alt="Java Skill Badge" src="./Badges/sensei.svg" /> | <img width="150" alt="Java Skill Badge" src="./Badges/sensei.svg" /> |
-| Sensei Badge | Sensei Badge |  Sensei Badge |  Sensei Badge | 
+| Sensei Badge | Sensei Badge |  Sensei Badge |  Sensei Badge |
+
+| Programming in Java  &nbsp; |  OOPS in Java &nbsp;  &nbsp; |
+| :---------------: | :---------------: |
+| <img width="150" alt="C++ Skill Badge" src="./Badges/sensei.svg" /> | <img width="150" alt="C++ Skill Badge" src="./Badges/sensei.svg" /> |
+| Sensei Badge | Sensei Badge |  Sensei Badge |  Sensei Badge |
 
 </div>
   
